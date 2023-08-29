@@ -1,0 +1,162 @@
+
+  .call {
+      color: hsl(236, 100%, 87%);
+  }
+  .call2{
+      color: hsl(236, 100%, 87%);
+  }
+  .call1{
+      color: hsl(236, 100%, 87%);
+  }
+  .name-color{
+      background-color: hsl(246, 80%, 60%);
+      color: white;
+      border-radius: 6px;
+      
+      
+  
+  }
+  .image{
+      padding: 7% 10%; 
+      height: 95%;
+      width: 45%;
+  }
+  .adjustment{
+      padding: 18% 5%;
+  }
+  .heading{
+      font-size: 50px;
+      margin-left: 5%;
+      margin-bottom: 2%;
+  }
+  .body-color{
+      background-color: hsl(235, 46%, 20%) ;
+      color: white;
+      padding: 10% 7%;
+      line-height: 3;
+      font-size: small;
+      border-radius: 6px;
+     
+  }
+  .line{
+      margin-left: 4%;
+  }
+  .section-1{
+      background-color: hsl(235, 46%, 20%) ;
+      color: white;
+      border-radius: 16px;
+      padding: 10% 7%;
+      border: 1%;
+      width: 250px;
+      margin-top: 15%;
+  }
+   
+  .index{   
+      z-index: 1;
+  }
+  .image-1{
+      background-color:hsl(15, 100%, 70%);
+      position: absolute;
+      z-index: -1;
+      padding: 10px 4px 4px 50px;   
+  }
+  .adjust{
+      width: 240px;
+      height: 80px;
+      border-radius: 8px;
+      margin-left: 1%;
+   }
+  .image-2{
+       background-color: hsl(145, 58%, 55%);
+       position: absolute;
+       z-index: -1;
+       padding: 10px 4px 4px 50px;
+        
+  }
+  .heading-1{
+      font-size: 60px;
+  }
+  .image-3{
+      background-color: hsl(195, 74%, 62%);
+      position: absolute;
+      z-index: -1;
+      padding: 10px 4px 4px 50px;
+  }
+  .image-4{
+      background-color:  hsl(264, 64%, 52%);
+      position: absolute;
+      z-index: -1;
+      padding: 10px 4px 4px 50px;
+  }
+  .image-5{
+      background-color:  hsl(348, 100%, 68%);
+      position: absolute;
+      z-index: -1;
+      padding: 10px 4px 4px 50px;
+  }
+   .image-6{
+      background-color: hsl(43, 84%, 65%);
+      position: absolute;
+      z-index: -1;
+      padding: 10px 4px 4px 50px;
+   }
+    
+   .track{
+      font-size: small;
+      font-weight:  400;
+      color: hsl(236, 100%, 87%)
+      ;
+   }
+   .dots{
+      margin-left: 70%;
+   }
+   .section-2{
+      background-color: hsl(235, 46%, 20%) ;
+      color: white;
+      border-radius: 16px;
+      padding: 10% 7%;
+      border: 1%;
+      width: 250px;
+      margin-top: 15%;
+  
+   }
+   .section-3{
+      background-color: hsl(235, 46%, 20%) ;
+      color: white;
+      border-radius: 16px;
+      padding: 10% 7%;
+      border: 1%;
+      width: 250px;
+      margin-top: 15%;
+  
+   }
+   .section-4{
+      background-color: hsl(235, 46%, 20%) ;
+      color: white;
+      border-radius: 16px;
+      padding: 10% 7%;
+      border: 1%;
+      width: 250px;
+      margin-top: 15%;
+  
+   }
+   .section-5{
+      background-color: hsl(235, 46%, 20%) ;
+      color: white;
+      border-radius: 16px;
+      padding: 10% 7%;
+      border: 1%;
+      width: 250px;
+      margin-top: 15%;
+  
+   }
+   .section-6{
+      background-color: hsl(235, 46%, 20%) ;
+      color: white;
+      border-radius: 16px;
+      padding: 10% 7%;
+      border: 1%;
+      width: 250px;
+      margin-top: 15%;
+  
+   }
